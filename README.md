@@ -4,7 +4,7 @@
 
 - 🌍  I'm based in Buenos Aires, Argentina
 - 🖥️  See my portfolio at [AdrielCamacho](https://adriel-camacho.vercel.app/)
-- ✉️  You can contact me at [adriel@acamacho.tech](mailto:adriel@beitsefer.com.ar)
+- ✉️  You can contact me at [adriel@beitsefer.com.ar](mailto:adriel@beitsefer.com.ar)
 - 🚀  I'm currently working on [Beit Sefer](http://www.beitsefer.com.ar)
 - 🧠  I'm learning Flutter
 - 🤝  I'm open to collaborating on Backend Projects
